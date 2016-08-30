@@ -1,8 +1,8 @@
 return {
 	bot_api_key = '262368194:AAHX1hfqMibKeAR0qYsUD-UeBmjPicSBFEk',
-	version = 'By Arian(1.0)',
+	version = '(1.0)',
 	cmd = '^[/!#?$]',
-	info = '[🎫 Join Our Channel](https://telegram.me/SpamProofChannel)',
+	info = '[🎫 Join Our Channel](https://telegram.me/jokeomok)',
 	db = 2, --default redis db: 0
 	admin = {
 		owner = 217305644
