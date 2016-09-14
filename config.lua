@@ -2,7 +2,7 @@ return {
 	bot_api_key = '271154115:AAH5W8AiJyXQO5TPgG9PaTP1lR8AKpjs0CI',
 	version = '(1.0)',
 	cmd = '^[/!#?$]',
-	info = '[🎫 Join Our Channel](https://telegram.me/jokeomok)',
+	info = '[🎫 Join Our Channel](https://telegram.me/IRgroupchannel)',
 	db = 2, --default redis db: 0
 	admin = {
 		owner = 217305644,
