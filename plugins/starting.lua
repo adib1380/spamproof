@@ -58,7 +58,7 @@ local function do_keyboard_private()
       {text = '📣 کانال ما', url = 'https://telegram.me/IRgroupchannel'},
              },    	    
              {
-    	    	{text = '📢 گروه پشتیبانی', url = ''},
+    	    	{text = '📢 گروه پشتیبانی', url = 'https://telegram.me/joinchat/BkogSAod8B4wzthjtIw7OQ'},
     		{text = '📢 گروه پشتیبانی انگلیسی', url =  'https://telegram.me/joinchat/BkogSAqLox5MeMBcj2Ty5w'},
 	     },
 	     {
