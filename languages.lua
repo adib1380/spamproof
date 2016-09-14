@@ -56,7 +56,7 @@ return {
         extra = {
             setted = '&&&1 Saved!',
             no_commands = 'No commands set!',
-            commands_list = 'List Of [Extra](https://telegram.me/spamproofchannel) Commands:\n&&&1',
+            commands_list = 'List Of [Extra](https://telegram.me/IRgroupchannel) Commands:\n&&&1',
             command_deleted = '&&&1 command has been deleted',
             command_empty = '&&&1 command does not exist'
         },
@@ -167,15 +167,15 @@ The inline keyboard has three sub-menus:
 
 [🎫 Channel](https://telegram.me/SpamProofChannel)]],
 		     private = 'Hi, *&&&1*!\n'
-                    ..'I/m KeyWord~Im Manneging up 100 Groups!🤗\n'
+                    ..'I/m IRgroup~Im Manneging up 100 Groups!🤗\n'
                     ..'\n_How i can helping you?_\n'
                     ..'🎩* I Can Do Them:*\n'
                     ..'• *You Can Kick Or Ban USers In GRoups Or Super Groups*\n'
                     ..'• ✍🏻*You can write tules and about for your group*\n'
                     ..'• 🔰*I Auto Switch AntiSpam Mode!*🔰\n'
                     ..'• ⚠*You Can Warn USers When They Sends : gif - photo - sticker - film*\n'
-                    ..'•For use me geting admin me in your group \n[ 🐳 Make SpamProof Admin 🐳](https://telegram.me/SpamProofChannel/2) \n'
-                    ..'💻 Developer : [Arian](https://telegram.me/arian721) \n'
+                    ..'•For use me geting admin me in your group \n[ 🐳 Make IRgroup Admin 🐳](https://telegram.me/IRgroupchannel/2) \n'
+                    ..'💻 Developer : [APps for FReE](https://telegram.me/adibnikjoo) \n'
                     ..'For Change Languages To *Persian*,Send /lang Then Click On Fa\n',
             group_success = '_I\'ve sent you the help message in private_',
             group_not_success = '_Please message me first so I can message you_',
