@@ -43,7 +43,7 @@ local function make_keyboard(mod, mod_current_position)
  else
      bottom_bar = {{text = '👤 ادمین ها', callback_data = 'mod'}}
  end
-	table.insert(bottom_bar, {text = '🎫 کانال', url = 'https://telegram.me/spamproofchannel'}) --insert the "Info" button
+	table.insert(bottom_bar, {text = '🎫 کانال', url = 'https://telegram.me/IRgroupchannel'}) --insert the "Info" button
 	table.insert(keyboard.inline_keyboard, bottom_bar)
 	return keyboard
 end
@@ -55,11 +55,11 @@ local function do_keyboard_private()
     		{text = '👥 افزودن من به گروه', url = 'https://telegram.me/'..bot.username..'?startgroup=new'},
     	     },
              {
-      {text = '📣 کانال ما', url = 'https://telegram.me/SpamProofChannel'},
+      {text = '📣 کانال ما', url = 'https://telegram.me/IRgroupchannel'},
              },    	    
              {
-    	    	{text = '📢 گروه پشتیبانی', url = 'https://telegram.me/joinchat/ChhotEDUZV-PIwZ5QJFX5g'},
-    		{text = '📢 گروه پشتیبانی انگلیسی', url = 'https://telegram.me/joinchat/ChhotEAd7v63g4lTSodj0A'},
+    	    	{text = '📢 گروه پشتیبانی', url = ''},
+    		{text = '📢 گروه پشتیبانی انگلیسی', url =  'https://telegram.me/joinchat/BkogSAqLox5MeMBcj2Ty5w'},
 	     },
 	     {
 	        {text = '📕 راهنما', callback_data = 'user'}
