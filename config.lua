@@ -20,11 +20,11 @@ return {
 		notify_bug = true,
 		log_api_errors = false
 	},
-	channel = '@SpamProofChannel', --channel username with the '@'
+	channel = '@IRgroupchannel', --channel username with the '@'
 	help_groups = {
-		['Internatinal Group'] = 'https://telegram.me/joinchat/ChhotEAd7v63g4lTSodj0A', --group link, not username!
-		['Italian'] = 'https://telegram.me/joinchat/CHYUej7oPES-Gdw5hmgAXg',
-		['Persian'] = 'https://telegram.me/joinchat/ChhotEDUZV-PIwZ5QJFX5g'
+		['Internatinal Group'] = 'https://telegram.me/joinchat/BkogSAod8B4wzthjtIw7OQ', --group link, not username!
+		['Italian'] = 'https://telegram.me/joinchat/BkogSAqLox5MeMBcj2Ty5w',
+		['Persian'] = 'https://telegram.me/joinchat/BkogSAod8B4wzthjtIw7OQ'
 	},
 	languages = 'languages.lua',
 	plugins = {
