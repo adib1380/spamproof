@@ -5,10 +5,9 @@ return {
 	info = '[🎫 Join Our Channel](https://telegram.me/jokeomok)',
 	db = 2, --default redis db: 0
 	admin = {
-		owner = 217305644
+		owner = 217305644,
 		admins = {
-			[] = true,
-			[] = true
+			[217305644] = true
 		}
 	},
 	log_chat = -1001084705680,
