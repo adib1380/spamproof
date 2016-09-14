@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '262368194:AAHX1hfqMibKeAR0qYsUD-UeBmjPicSBFEk',
+	bot_api_key = '271154115:AAH5W8AiJyXQO5TPgG9PaTP1lR8AKpjs0CI',
 	version = '(1.0)',
 	cmd = '^[/!#?$]',
 	info = '[🎫 Join Our Channel](https://telegram.me/jokeomok)',
